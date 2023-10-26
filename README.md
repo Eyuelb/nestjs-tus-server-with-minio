@@ -1,12 +1,11 @@
 <h1 align="center">Welcome to Nestjs tus-server with minio 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
+   <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" style="margin-right: 10px;" />
+  <img src="https://github.com/tus/tus.io/blob/main/src/assets/logos-tus-default.svg?raw=true" width="120" alt="Tus logo" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true" width="120" alt="MinIO" />  <a href="#" target="_blank">
 </p>
 
-> Nest TypeScript starter repository
+> Nestjs tus-server with minio repository
 
 ### ✨ [Demo](http://localhost:3000/upload/files/)
 
@@ -41,4 +40,3 @@ npm run test
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
