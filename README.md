@@ -1,10 +1,14 @@
 <h1 align="center">Welcome to Nestjs tus-server with minio sw3-store 👋</h1>
-<p>
+<p style="width:100%">
    <img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" style="margin-right: 10px;" />
-  <img src="https://github.com/tus/tus.io/blob/main/src/assets/logos-tus-default.svg?raw=true" width="120" alt="Tus logo" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true" width="120" alt="MinIO" />  <a href="#" target="_blank">
 </p>
+<p style="width:100%">
+  <img src="https://github.com/tus/tus.io/blob/main/src/assets/logos-tus-default.svg?raw=true" width="25%" alt="Tus logo" style="margin-right: 10px;" />
+</p>
+     <p style="width:100%">
 
+  <img src="https://raw.githubusercontent.com/minio/minio/master/.github/logo.svg?sanitize=true" width="35%" alt="MinIO" />  
+</p>
 > Nestjs tus-server with MinIO SW3-Store is a powerful combination of technologies for building a scalable and high-performance file upload and storage system.
 
 This project leverages the following libraries:
